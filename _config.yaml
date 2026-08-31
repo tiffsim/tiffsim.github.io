@@ -1,0 +1,20 @@
+title: "Tiffany Simon"
+description: "Political scientist | Middle East politics, governance, and political behavior"
+baseurl: "" # leave empty for user site
+url: "https://tiffsim.github.io" # will update to your custom domain later
+
+theme: minima
+
+author: "Tiffany Simon"
+email: "tiffany_simon[at]hks.harvard.edu"
+
+# Navigation links (show up in header)
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+
+# Social links (optional – comment out if you don’t want these)
+# github_username: tiffsim
+# twitter_username: yourhandle
+# google_scholar: "https://scholar.google.com/citations?user=XXXXX"
