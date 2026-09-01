@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 **“Bread and Circuses: The Political Consequences of Entertainment in Autocracies”**  
-<span class="paper-meta"><em>Working paper</em> · <a href="/assets/circuses_tsimon.pdf">Latest draft</a></span>
+<span class="paper-meta"><em>Working paper</em> · <a href="/assets/papers/circuses_tsimon.pdf">Latest draft</a></span>
 Authoritarian states are increasingly investing in projects related to entertainment and leisure for their citizens and residents. In Saudi Arabia, Vision 2030’s expansion of entertainment and leisure is being undertaken not only in the name of economic diversification but also to improve quality of life. Drawing on over 22 million tweets (2017–2019) geotagged in Saudi Arabia, fine-tuned Saudi Arabic language classifiers, and a database of government-organized entertainment events, I examine the effect of entertainment on mood and online political expression.
 
 ---
