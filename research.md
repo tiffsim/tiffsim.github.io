@@ -12,7 +12,7 @@ Authoritarian states are increasingly investing in projects related to entertain
 
 **Happiness and Political Control: Winning Compliance in the Arab Gulf**
 <span class="paper-meta"><em>Book project</em> </span>
-This book examines how state-led wellbeing, quality of life, and leisure policies in Saudi Arabia and the UAE shape citizen emotion and political behavior. Drawing on original survey experiments, social media data, and qualitative fieldwork, the project asks when and how positive affect and policies that generate positive affect can generate political compliance.
+This book examines how state-led wellbeing, quality of life, and leisure policies in Saudi Arabia and the UAE shape citizen emotion and political behavior. Drawing on original survey experiments, social media data, and qualitative fieldwork, the project asks when and how positive affect and policies that aim to generate positive affect can also generate political compliance.
 
 ---
 
