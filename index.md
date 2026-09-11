@@ -24,7 +24,11 @@ permalink: /
     <p>
     Aross these projects, I use large-scale text analysis, field and survey experiments, and qualitative research to understand how people's everyday experiences with the state shape political behavior.
     </p>
-
+    
+    <p>
+    I received my PhD in Politics from Princeton University and hold an MPA from Columbia University’s School of International and Public Affairs.
+    </p>
+    
     <p class="home-links">
       <a href="/research/">Research</a>
       <a href="/cv/">CV</a>
