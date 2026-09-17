@@ -26,7 +26,7 @@ permalink: /
     </p>
     
     <p>
-    I received my PhD in Politics from Princeton University and hold an MPA from Columbia University’s School of International and Public Affairs.
+    I received my PhD in Politics from Princeton University and an MPA from Columbia University’s School of International and Public Affairs.
     </p>
     
     <p class="home-links">
